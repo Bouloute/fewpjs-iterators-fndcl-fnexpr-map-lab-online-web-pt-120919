@@ -17,5 +17,5 @@ const titleCased = () => {
 
 function capitalize(sentence){
   let words = sentence.split(' ')
-  binding.pry 
+  console.log(words) 
 }
